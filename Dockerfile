@@ -5,6 +5,7 @@ FROM rightctrl/java
 COPY target/*.jar app.jar
 
 #Mention which port the application listens
+#Springboot port
 EXPOSE 8080
 
 #Run the java process as root user

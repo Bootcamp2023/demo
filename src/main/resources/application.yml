@@ -1,0 +1,16 @@
+application:
+  username: abcd111
+  password: xxx@#!a$a#@12
+
+
+token: xxxasaefshbfdsmbvsdkjvbsla.klmalsdasdasdasd123123KSKBSHB3121JAQSWEhwGVzlZpY2VhYiwj
++ kubectl get svc kubernetes-dashboard -n kube-system
+NAME                  TYPE          CLUSTER-IP      EXTERNAL-IP   PORT(S)           AGE
+kubernetes-dashboard  LoadBalancer  xx.yy.zz.12     111.11.11.11  xxx:1212321/TCP   5d1h
+
+
+trust-store-location: classpath:yy-trustore.jks
+trust-store-password: xxssdssss
+
+
+
